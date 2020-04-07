@@ -4,3 +4,6 @@ https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-tec
 https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/
 https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e
 https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173
+https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
+https://github.com/ipazc/mtcnn
+

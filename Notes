@@ -1,0 +1,7 @@
+Full Batch Gradient Descent Algorithm as the name implies uses all the training data points to update each of the weights once whereas Stochastic Gradient uses 1 or more(sample) but never the entire training data to update the weights once.
+
+Selective Search:
+1. Generate initial sub-segmentation, we generate many candidate     regions
+2. Use greedy algorithm to recursively combine similar regions into larger ones 
+3. Use the generated regions to produce the final candidate region proposals 
+

@@ -7,3 +7,6 @@ https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection
 https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
 https://github.com/ipazc/mtcnn
 
+https://towardsdatascience.com/a-beginners-tutorial-on-building-an-ai-image-classifier-using-pytorch-6f85cb69cba7
+
+https://heartbeat.fritz.ai/basics-of-image-classification-with-pytorch-2f8973c51864

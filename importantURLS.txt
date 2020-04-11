@@ -11,3 +11,4 @@ https://towardsdatascience.com/a-beginners-tutorial-on-building-an-ai-image-clas
 
 https://heartbeat.fritz.ai/basics-of-image-classification-with-pytorch-2f8973c51864
 https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
+https://machinelearningmastery.com/improve-deep-learning-performance/
